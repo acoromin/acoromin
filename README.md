@@ -8,6 +8,18 @@ I'm a student at **42 Barcelona**, currently building a strong foundation in **C
 
 ## 🚀 Selected Projects
 
+### ✈️ [Fly-In: Drone Traffic Simulator](https://github.com/acoromin/fly-in-drone-simulator)
+
+Drone traffic simulator in Python with capacity-aware route planning, turn-based scheduling, and an interactive Pygame interface featuring a fullscreen map library, playback controls, and route inspection.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pygame-555555?style=flat" />
+  <img src="https://img.shields.io/badge/Pathfinding-555555?style=flat" />
+  <img src="https://img.shields.io/badge/Graph%20Algorithms-555555?style=flat" />
+  <img src="https://img.shields.io/badge/Simulation-555555?style=flat" />
+</p>
+
 ### ⚙️ [Concurrent Resource Scheduler](https://github.com/arnaucorope/concurrent_resource_scheduler)
 
 Multithreaded simulation in C with shared-resource scheduling, FIFO and EDF policies, and synchronization using POSIX threads and mutexes.
@@ -101,7 +113,7 @@ Custom implementation of common C standard library functions and linked list uti
 
 ### Currently Learning
 
-Currently working on **Fly-in**, a project in **Python** at 42 Barcelona.
+Learning **Python, graph algorithms, and simulation** through projects such as **Fly-In: Drone Traffic Simulator** at 42 Barcelona.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
