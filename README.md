@@ -8,6 +8,18 @@ I'm a student at **42 Barcelona**, currently building a strong foundation in **C
 
 ## 🚀 Selected Projects
 
+### 🗓️ [Shiftly — Staff & Shift Management](https://github.com/acoromin/shiftly)
+
+**Personal project.** A Django web application for hospitality staff management, covering shift planning, clock-in/out records, leave requests, incidents, and monthly hours reports with CSV export. Includes separate administrator and employee workflows.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shift%20Scheduling-555555?style=flat" />
+  <img src="https://img.shields.io/badge/Time%20Tracking-555555?style=flat" />
+  <img src="https://img.shields.io/badge/Role--Based%20Access-555555?style=flat" />
+</p>
+
 ### ✈️ [Fly-In: Drone Traffic Simulator](https://github.com/acoromin/fly-in-drone-simulator)
 
 Drone traffic simulator in Python with capacity-aware route planning, turn-based scheduling, and an interactive Pygame interface featuring a fullscreen map library, playback controls, and route inspection.
