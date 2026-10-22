@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ishan-rest.vercel.app/svg/banner/dev/arnaucorope" />
+  <img src="./assets/arnau-corominas-banner.svg" alt="Arnau Corominas — Software Developer" width="100%" />
 </p>
 
 # Arnau Corominas
