@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/arnau-corominas-banner.svg" alt="Arnau Corominas — Software Developer" width="100%" />
+  <img src="./assets/arnau-sagrada-portfolio.webp" alt="Arnau Corominas — Developer portfolio, Barcelona skyline and Sagrada Família" width="100%" />
 </p>
 
 # Arnau Corominas
