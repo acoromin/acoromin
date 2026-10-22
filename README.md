@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./assets/arnau-sagrada-portfolio.webp" alt="Arnau Corominas — Developer portfolio, Barcelona skyline and Sagrada Família" width="100%" />
+  <img src="./assets/arnau-barcelona-minimal.webp" alt="Arnau Corominas — Minimalist developer portfolio, Sagrada Família at sunset" width="100%" />
 </p>
-
-# Arnau Corominas
 
 I'm a student at **42 Barcelona**, currently building a strong foundation in **C, Python, algorithms, and systems programming** through project-based learning.
 
