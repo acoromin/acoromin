@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/arnau-barcelona-minimal.webp" alt="Arnau Corominas — Minimalist developer portfolio, Sagrada Família at sunset" width="100%" />
+  <img src="./assets/arnau-barcelona-minimal-v2.webp" alt="Arnau Corominas — Software Developer, C & Python, Barcelona at sunset" width="100%" />
 </p>
 
 I'm a student at **42 Barcelona**, currently building a strong foundation in **C, Python, algorithms, and systems programming** through project-based learning.
@@ -30,7 +30,7 @@ Drone traffic simulator in Python with capacity-aware route planning, turn-based
   <img src="https://img.shields.io/badge/Simulation-555555?style=flat" />
 </p>
 
-### ⚙️ [Concurrent Resource Scheduler](https://github.com/arnaucorope/concurrent_resource_scheduler)
+### ⚙️ [Concurrent Resource Scheduler](https://github.com/acoromin/concurrent_resource_scheduler)
 
 Multithreaded simulation in C with shared-resource scheduling, FIFO and EDF policies, and synchronization using POSIX threads and mutexes.
 
@@ -42,7 +42,7 @@ Multithreaded simulation in C with shared-resource scheduling, FIFO and EDF poli
   <img src="https://img.shields.io/badge/EDF-555555?style=flat" />
 </p>
 
-### 🧩 [A-Maze-ing](https://github.com/arnaucorope/a-maze-ing)
+### 🧩 [A-Maze-ing](https://github.com/acoromin/a-maze-ing)
 
 Maze generation, solving and visualization project built in Python.
 
@@ -54,7 +54,7 @@ Maze generation, solving and visualization project built in Python.
   <img src="https://img.shields.io/badge/Pathfinding-555555?style=flat" />
 </p>
 
-### 🔀 [Dual Stack Sort](https://github.com/arnaucorope/dual-stack-sort)
+### 🔀 [Dual Stack Sort](https://github.com/acoromin/dual-stack-sort)
 
 Sorting project using two stacks and a restricted set of operations, with different strategies depending on the input.
 
@@ -65,7 +65,7 @@ Sorting project using two stacks and a restricted set of operations, with differ
   <img src="https://img.shields.io/badge/Radix%20Sort-555555?style=flat" />
 </p>
 
-### 🖨️ [Custom C printf](https://github.com/arnaucorope/custom-c-printf)
+### 🖨️ [Custom C printf](https://github.com/acoromin/custom-c-printf)
 
 Custom implementation of the C `printf` function with format parsing and variadic arguments.
 
@@ -76,7 +76,7 @@ Custom implementation of the C `printf` function with format parsing and variadi
   <img src="https://img.shields.io/badge/Flags%20%26%20Precision-555555?style=flat" />
 </p>
 
-### 📖 [Unix Line Reader](https://github.com/arnaucorope/unix-line-reader-c)
+### 📖 [Unix Line Reader](https://github.com/acoromin/unix-line-reader-c)
 
 Buffered line reader capable of reading files line by line while preserving state between calls.
 
@@ -88,7 +88,7 @@ Buffered line reader capable of reading files line by line while preserving stat
   <img src="https://img.shields.io/badge/Memory%20Management-555555?style=flat" />
 </p>
 
-### 📚 [Custom libc](https://github.com/arnaucorope/custom-libc)
+### 📚 [Custom libc](https://github.com/acoromin/custom-libc)
 
 Custom implementation of common C standard library functions and linked list utilities.
 
